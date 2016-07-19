@@ -17,13 +17,19 @@
  
  ```
 ##**Usage:**
-**App is extremely easy to use.All you need to do is click on the dropper button which will activate the Dropper. After that the app will display the color values of any point on the screen you click on.**
+
+- **All you need to do is click on the dropper button which will activate the Dropper.**
+- **After that the app will display the color values of any point on the screen you click on.**
 ```
 
 ```
 ##**Additional:**
-**The repo contains two projects: library with the dropper control, and an app that you can run on your computer. You can use the library to add dropper as an user control if you wish to use it in your own app.
-This app can be used to get a color code of absolutely anything from the website that you like to the picture that you want to copy the color from.**
+**The repo contains two projects:**
+  * **Library with the dropper control**
+  * **App that you can run on your computer**
+
+**You can use the library to add dropper as an user control if you wish to use it in your own app.**
+**This app can be used to get a color code of absolutely anything from the website that you like to the picture that you want to copy the color from.**
 ```
 
 ```
