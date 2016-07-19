@@ -6,7 +6,7 @@
 ```
 
 ```
-###Code:
+## **Code:**
 **This repo also contains a library with the fully functional dropper user control.You can easily add it to your app with one line of code!**
 ```
  <Grid>
@@ -16,17 +16,17 @@
  
  
  ```
-###Usage:
+##**Usage:**
 **App is extremely easy to use.All you need to do is click on the dropper button which will activate the Dropper. After that the app will display the color values of any point on the screen you click on.**
 ```
 
 ```
-###Additional:
+##**Additional:**
 **The repo contains two projects: library with the dropper control, and an app that you can run on your computer. You can use the library to add dropper as an user control if you wish to use it in your own app.
 This app can be used to get a color code of absolutely anything from the website that you like to the picture that you want to copy the color from.**
 ```
 
 ```
-###Troubleshoot/Contribution:
+##**Troubleshoot/Contribution:**
 **Anybody is more than welcome to contribute to this project.If you have any trouble with the repo, use issue reporter on the right or shoot me an email at iskenxa11@gmail.com.**
 
