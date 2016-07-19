@@ -1,0 +1,8 @@
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\View\Dropper.baml
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\View\Dropper.g.cs
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\ScreenDrop_MarkupCompile.cache
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\ScreenDrop.g.resources
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\bin\Debug\ScreenDrop.dll
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\bin\Debug\ScreenDrop.pdb
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\ScreenDrop.dll
+D:\WPF Projects\ScreenDrop\ScreenDrop\ScreenDrop\obj\Debug\ScreenDrop.pdb

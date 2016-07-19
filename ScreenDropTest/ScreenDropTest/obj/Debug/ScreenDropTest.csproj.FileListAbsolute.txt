@@ -1,0 +1,15 @@
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\bin\Debug\ScreenDropTest.exe.config
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\bin\Debug\ScreenDropTest.exe
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\bin\Debug\ScreenDropTest.pdb
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\MainWindow.baml
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\MainWindow.g.cs
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\App.g.cs
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest_MarkupCompile.cache
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.g.resources
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.Properties.Resources.resources
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.csproj.GenerateResource.Cache
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.exe
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.pdb
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\bin\Debug\ScreenDrop.dll
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\bin\Debug\ScreenDrop.pdb
+D:\WPF Projects\ScreenDrop\ScreenDropTest\ScreenDropTest\obj\Debug\ScreenDropTest.csprojResolveAssemblyReference.cache
