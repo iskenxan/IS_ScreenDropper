@@ -28,4 +28,5 @@ This app can be used to get a color code of absolutely anything from the website
 
 ```
 ###Troubleshoot:
-** If you have any trouble with the repo, use issue reporter on the right or shoot me an email at iskenxa11@gmail.com. **
+**If you have any trouble with the repo, use issue reporter on the right or shoot me an email at iskenxa11@gmail.com.**
+
