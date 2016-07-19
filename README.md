@@ -23,9 +23,9 @@
 ```
 ###Additional:
 **The repo contains two projects: library with the dropper control, and an app that you can run on your computer. You can use the library to add dropper as an user control if you wish to use it in your own app.
-This app can be used to get a color code of absolutely anything from the website that you like to the picture that you copy the color from.**
+This app can be used to get a color code of absolutely anything from the website that you like to the picture that you want to copy the color from.**
 ```
 
 ```
 ###Troubleshoot:
-** If you have any trouble with the repo, use issue reporter on the right or shoot me an email at iskenxa11@gmail.com.**
+** If you have any trouble with the repo, use issue reporter on the right or shoot me an email at iskenxa11@gmail.com. **
