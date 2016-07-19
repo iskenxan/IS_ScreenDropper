@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Controls;
+//using System.Windows.Forms;
 using System.Threading;
 using System.Diagnostics;
 using System.Windows.Media;
@@ -78,10 +79,22 @@ namespace ScreenDropper.Model
             {
 
                 MSLLHOOKSTRUCT hookStruct = (MSLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(MSLLHOOKSTRUCT));
-                color = converter.GetColor(screenCapture.CaptureScreen(), hookStruct.pt.x, hookStruct.pt.y);
+
+                int curX = hookStruct.pt.x;
+                int curY = hookStruct.pt.y;
+
+                //var cursorPos = Cursor.Position;
+
+                // This isn't ideal, but it fixes the coordinate system:
+                curX -= (int)SystemParameters.VirtualScreenLeft;
+                curY -= (int)SystemParameters.VirtualScreenTop;
+
+                color = converter.GetColor(screenCapture.CaptureScreen(), curX, curY);
+
                 R = color.R;
                 G = color.G;
                 B = color.B;
+
                 HEX = "#" + color.R.ToString("X2") + color.G.ToString("X2") + color.B.ToString("X2");
             }
 
